@@ -1,0 +1,13 @@
+52746a8da998157bc49e17d141a3aa05 *DESCRIPTION
+938aae7b39deca7f4c30ec5994a53e3a *LICENSE
+4b18e3c382bfcd9983efd02eb3f9d9f3 *NAMESPACE
+774a1389f7e2521ae6b993d11d8226e9 *NEWS.md
+45cfbb67bed4f42e5a18ba700b7dd954 *R/data.R
+aa09c08dae7447c86e2c595da61b3364 *R/utils.R
+0387d3c4cccc1d33549a90b2d83e7c7f *data/face.rda
+d0efcaf0067f6594af48267ab5ad3622 *man/face.Rd
+9cbe761ffc851c65ebacb5314c448822 *man/im_load.Rd
+6ac35282dddb88a8ada8eeefa5c40a83 *man/im_save.Rd
+b01295f40b3e8f41463d45f8b030de10 *man/plot.nimg.Rd
+4f4acfdaea7c3452bb66cb897fbc5ce6 *man/sketch.Rd
+2bbb13925c59df2401ec4ccf99686dc7 *man/survey.Rd
